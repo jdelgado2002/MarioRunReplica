@@ -543,3 +543,7 @@ C:\Users\Kiddo\Desktop\Code\C#\MobileRunner\MobileRunner\obj\Debug\Assembly-CSha
 C:\Users\Kiddo\Desktop\Code\C#\MobileRunner\MobileRunner\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\Kiddo\Desktop\Code\C#\MobileRunner\MobileRunner\obj\Debug\Assembly-CSharp.dll
 C:\Users\Kiddo\Desktop\Code\C#\MobileRunner\MobileRunner\obj\Debug\Assembly-CSharp.pdb
+c:\Users\jose.delgado\Documents\Games\MarioRunReplica\Temp\bin\Debug\Assembly-CSharp.pdb
+c:\Users\jose.delgado\Documents\Games\MarioRunReplica\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+c:\Users\jose.delgado\Documents\Games\MarioRunReplica\obj\Debug\Assembly-CSharp.dll
+c:\Users\jose.delgado\Documents\Games\MarioRunReplica\obj\Debug\Assembly-CSharp.pdb
